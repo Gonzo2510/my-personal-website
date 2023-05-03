@@ -1,3 +1,6 @@
+html {
+    scroll-behavior: smooth;
+  }
 
 #name {
     text-align: center;
