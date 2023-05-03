@@ -1,6 +1,51 @@
+#name {
+    text-align: center;
+}
+header div h1 {
+    font-size: 50px;
+}
+.navBar {
+  border: 1px solid rgb(0, 0, 0);
+  margin: 1rem;
+  padding: 5px 5px;
+  text-align: center;
+}
+.navChild {
+  display: inline-block;
+  border: 1px solid blue;
+  padding: 10px 100px;
+  vertical-align: middle;
+}
 body {
     background: rgb(169, 169, 222);
 }
+body img {
+    align-items: center;
+}
+body img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+#aboutDescription {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    font-size: larger;
+}
+#experienceDescription {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
+
+
+
+
+
 
 table, th, td {
     border:1px solid black;
