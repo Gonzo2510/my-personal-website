@@ -5,30 +5,36 @@ html {
 #name {
     text-align: center;
 }
+
 header div h1 {
     font-size: 50px;
 }
+
 .navBar {
   border: 1px solid rgb(0, 0, 0);
   margin: 1rem;
   padding: 5px 5px;
   text-align: center;
 }
+
 .navChild {
   display: inline-block;
   border: 1px solid blue;
   padding: 10px 100px;
   vertical-align: middle;
 }
+
 body {
     background: rgb(169, 169, 222);
 }
+
 body img {
     align-items: center;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
+
 #aboutDesc {
     text-align: center;
     margin-left: auto;
@@ -36,6 +42,7 @@ body img {
     width: 80%;
     font-size: larger;
 }
+
 table, th, td {
     border:1px solid black;
     margin-left: auto;
@@ -44,4 +51,13 @@ table, th, td {
 
 div#whiteSpace {
     text-align: center;
+}
+
+#skills {
+  text-align: center;
+}
+
+#skills ul {
+  display: inline-block;
+  text-align: left; /* Optional: to align the text inside the list to the left */
 }
