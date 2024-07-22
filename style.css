@@ -1,13 +1,13 @@
 html {
-    scroll-behavior: smooth;
-  }
+  scroll-behavior: smooth;
+}
 
 #name {
-    text-align: center;
+  text-align: center;
 }
 
 header div h1 {
-    font-size: 50px;
+  font-size: 50px;
 }
 
 .navBar {
@@ -25,32 +25,32 @@ header div h1 {
 }
 
 body {
-    background: rgb(169, 169, 222);
+  background: rgb(169, 169, 222);
 }
 
 body img {
-    align-items: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+  align-items: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #aboutDesc {
-    text-align: center;
-    margin-left: auto;
-    margin-right: auto;
-    width: 80%;
-    font-size: larger;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  font-size: larger;
 }
 
 table, th, td {
-    border:1px solid black;
-    margin-left: auto;
-    margin-right: auto;
-  }
+  border: 1px solid black;
+  margin-left: auto;
+  margin-right: auto;
+}
 
 div#whiteSpace {
-    text-align: center;
+  text-align: center;
 }
 
 #skills {
@@ -59,5 +59,8 @@ div#whiteSpace {
 
 #skills ul {
   display: inline-block;
-  text-align: left; /* Optional: to align the text inside the list to the left */
+  margin: 0 auto;
+  text-align: left;
+  list-style: none;
+  padding: 0;
 }
