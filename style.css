@@ -13,14 +13,14 @@ header div h1 {
 .navBar {
   border: 1px solid rgb(0, 0, 0);
   margin: 1rem;
-  padding: 3px 3px;
+  padding: 5px 5px;
   text-align: center;
 }
 
 .navChild {
   display: inline-block;
   border: 1px solid blue;
-  padding: 10px 100px;
+  padding: 8px 100px;
   vertical-align: middle;
 }
 
