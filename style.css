@@ -20,7 +20,7 @@ header div h1 {
 .navChild {
   display: inline-block;
   border: 1px solid blue;
-  padding: 10px 50px;
+  padding: 10px 25px;
   vertical-align: middle;
 }
 
