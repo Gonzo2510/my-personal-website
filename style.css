@@ -68,3 +68,11 @@ div#whiteSpace {
 .about {
   padding-bottom: 15px;
 }
+
+#profile-pic {
+  display: block; 
+  margin: 20px auto; 
+  max-width: 250px; 
+  height: auto; 
+  border-radius: 20%;
+}
