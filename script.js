@@ -11,3 +11,10 @@ function topFunction() {
     document.body.scrollTop = 0;
     document.documentElement.scrollTop = 0;
 }
+
+function scrollToSection(sectionID) {
+    const section = document.getElementById(sectionID);
+    if (section) {
+        section.scrollIntoView({behavior: 'smooth'})
+    }
+}
