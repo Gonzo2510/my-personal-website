@@ -76,3 +76,7 @@ div#whiteSpace {
   height: auto; 
   border-radius: 20%;
 }
+
+#projects a {
+  margin-right: 20px; /* Adjust the value (20px) to control the spacing */
+}
